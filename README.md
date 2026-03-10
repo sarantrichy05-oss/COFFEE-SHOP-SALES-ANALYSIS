@@ -101,7 +101,7 @@ The Power BI dashboard includes the following visualizations:
 - Product Type Revenue Contribution
 - Geographical Sales Distribution Map
 
-*(Insert dashboard screenshot here)*
+https://github.com/sarantrichy05-oss/COFFEE-SHOP-SALES-ANALYSIS/blob/ef4ffa8e2b4debfccf0697633191de409aa907a1/DASHBOARD.pdf
 
 ---
 
